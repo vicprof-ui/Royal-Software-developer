@@ -8,18 +8,18 @@ import CardActionArea from '@mui/material/CardActionArea';
 const cards = [
   {
     id: 1,
-    title: 'HTML Course',
-    description: 'HTML helps to structure web pages and web content for display in a web browser.',
+    title: 'Earning',
+    description: 'Skilled developers can earn as high as 1,000 - 10,000 dollars per month depending on the level of experience.',
   },
   {
     id: 2,
-    title: 'JAVASCRIPT',
-    description: 'Javascript is an object oriented computer programming language commonly used to create interactive effects within web browser.',
+    title: 'Remote/Flexible',
+    description: 'As a developer you can work remotely and also at any time of your choice, it is highly flexible.',
   },
   {
     id: 3,
-    title: 'REACT',
-    description: 'React is a component based Javascript library used to build dynamic and interactive user interfaces.',
+    title: 'Job Opportunity',
+    description: 'Software Developers are highly valued and sought after in various field there are severe are job opportunities after the training',
   },
 ];
 
