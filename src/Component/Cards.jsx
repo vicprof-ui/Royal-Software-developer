@@ -14,13 +14,14 @@ const cards = [
   {
     id: 2,
     title: 'Remote/Flexible',
-    description: 'As a developer you can work remotely and also at any time of your choice, it is highly flexible.',
+    description: 'As a developer you can work remotely at the comfort of your home or anywhere that is comfortable to you.',
   },
   {
     id: 3,
     title: 'Job Opportunity',
     description: 'Software Developers are highly valued and sought after in various field there are severe are job opportunities after the training',
   },
+  
 ];
 
 function SelectActionCard() {
